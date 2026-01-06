@@ -42,7 +42,7 @@ Applied to elite solutions using:
 - insertion neighborhood
 - reversion neighborhood
 
-**Scheduling Landing time**
+**Scheduling Landing Times**
 For each landing sequence, landing times are optimized using a forward pass and backward shifting procedure.
 
 **Repository structure**
