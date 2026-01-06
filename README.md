@@ -76,6 +76,8 @@ Set the instance path in the code as follows:
 
 - You may replace airland11.txt with any other instance file.
 
+To replicate the convergence analysis for Airland 11, uncomment the experimental analysis section at the end of the script.
+
 **Run the script using:**
 
 python GA-VNS_aircraft_landing.py
